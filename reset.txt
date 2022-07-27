@@ -1,0 +1,1 @@
+this file is to test the reset command of git -- git reset HEAD~1 type
